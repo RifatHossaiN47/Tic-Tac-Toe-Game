@@ -11,9 +11,10 @@
         android:id="@+id/ff"
         android:layout_width="match_parent"
         android:layout_height="@dimen/_180sdp"
-        android:layout_marginTop="24dp"
         android:gravity="center"
+        app:layout_constraintBottom_toTopOf="@+id/view2"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent">
 
@@ -79,7 +80,9 @@
         android:layout_height="@dimen/_272sdp"
         android:layout_marginTop="16dp"
         android:background="@drawable/xz"
+        app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/ff" />
 
