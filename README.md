@@ -73,7 +73,7 @@ The APK will be generated at `app/build/outputs/apk/release/`.
 
 ## Author
 
-- **Rifat Hossain** — [GitHub Profile](https://github.com/RifatHossaiN47)
+- **Md Rifat Hossen** — [GitHub Profile](https://github.com/RifatHossaiN47)
 
 ## License
 
